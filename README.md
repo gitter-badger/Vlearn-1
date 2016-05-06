@@ -1,4 +1,6 @@
 # Vlearn
+
+[![Join the chat at https://gitter.im/ThilinaManamgoda/Vlearn-1](https://badges.gitter.im/ThilinaManamgoda/Vlearn-1.svg)](https://gitter.im/ThilinaManamgoda/Vlearn-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Voice Based Learning platform for blind and disabled people
 
 # Vlearn scope
